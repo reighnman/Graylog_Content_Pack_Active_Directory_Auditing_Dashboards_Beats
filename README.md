@@ -1,12 +1,12 @@
 # Active Directory Auditing Content Pack Dashboards *Beats Edition*
 
-Tested with nxLog/Windows 2012R2 Domain Controllers/Graylog 3.0.2/WinLogBeats
+Tested with WinLogBeats(Sidecar-Collector)/Windows 2012R2 Domain Controllers/Graylog 3.0.2/WinLogBeats
 
 This content pack provides several useful dashboards for auditing Active Directory events:
 * DNS Object Summary - DNS Creations, Deletions
 * Group Object Summary - Group Creations, Modifications, Deletions, Membership Changes
 * User Object Summary - Account Creations, Deletions, Modifications, Lockouts, Unlocks
-* Computer Object Summary - (in progress)
+* Computer Object Summary - Computer Object Creations, Deletions, Modifications
 * Logon Summary - Failed Authentication Attempts, Interactive Logins
 
 ## Includes
@@ -27,7 +27,11 @@ This content pack provides several useful dashboards for auditing Active Directo
 
 ## Screenshots
 
-![Dashboard](http://www.ohjeah.net/wp-content/uploads/2015/09/ad_audit.png)
+![Dashboard](https://i.imgur.com/PtSnoGo.png)
+
+![Dashboard](https://i.imgur.com/AoX3o91.png)
+
+![Dashboard](https://i.imgur.com/koxRB6c.png)
 
 ##  NXLOG vs WinLog Beats
 
