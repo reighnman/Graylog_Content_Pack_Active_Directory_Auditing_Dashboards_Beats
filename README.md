@@ -15,7 +15,7 @@ This content pack provides several useful dashboards for auditing Active Directo
 
 ## Requirements
 
-* WinLogBeats collecting windows logs from all domain controllers, other log collectors will work but may require modifying the searches to match the different fields outputted by other collectors
+* Beats input (with "Do not add Beats type as prefix" checked) collecting windows logs from all domain controllers.  Other log collectors will work but may require modifying the searches to match the different fields outputted by other collectors
 * Domain Controller security policy with the following enabled:
 ** Audit Account Logon Events
 ** Audit Account Managmenet
