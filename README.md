@@ -1,4 +1,4 @@
-# Active Directory Auditing Content Pack Dashboards *Beats Edition*
+# Active Directory Auditing Content Pack Dashboards *Beats Edition* (Outdated - Please Fork+Update)
 
 Tested with WinLogBeats(Sidecar-Collector)/Windows 2012R2 Domain Controllers/Graylog 4/WinLogBeats 7
 
