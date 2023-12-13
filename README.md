@@ -1,6 +1,6 @@
 # Active Directory Auditing Content Pack Dashboards *Beats Edition*
 
-Tested with WinLogBeats(Sidecar-Collector)/Windows 2012R2 Domain Controllers/Graylog 3.0.2/WinLogBeats
+Tested with WinLogBeats(Sidecar-Collector)/Windows 2012R2 Domain Controllers/Graylog 4/WinLogBeats 7
 
 This content pack provides several useful dashboards for auditing Active Directory events:
 * DNS Object Summary - DNS Creations, Deletions
